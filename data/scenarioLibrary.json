@@ -1,0 +1,8 @@
+{"scenarios": [{
+    "roadType": "highway",
+    "vehicleSpeed": 60,
+    "obstacleDistance": 10,
+    "name": "rainy highway",
+    "obstacleType": "car",
+    "weatherCondition": "rainy"
+}]}

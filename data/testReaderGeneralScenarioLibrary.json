@@ -1,0 +1,20 @@
+{
+    "scenarios": [
+        {
+            "name": "Rainy Highway",
+            "weatherCondition": "rainy",
+            "roadType": "highway",
+            "vehicleSpeed": 60.0,
+            "obstacleType": "car",
+            "obstacleDistance": 10.0
+        },
+        {
+            "name": "Sunny City",
+            "weatherCondition": "sunny",
+            "roadType": "city",
+            "vehicleSpeed": 40.0,
+            "obstacleType": "pedestrian",
+            "obstacleDistance": 50.0
+        }
+    ]
+}
